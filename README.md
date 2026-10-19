@@ -10,7 +10,7 @@
 
 <a href="#about">About</a> &nbsp; / &nbsp;
 <a href="#toolbox">Toolbox</a> &nbsp; / &nbsp;
-<a href="#project-lab">Project lab</a> &nbsp; / &nbsp;
+<a href="#projects">Projects</a> &nbsp; / &nbsp;
 <a href="#activity">Activity</a> &nbsp; / &nbsp;
 <a href="#connect">Connect</a>
 
@@ -43,75 +43,52 @@ I want to turn everyday friction into useful software: a clearer interface, a re
 
 ## 02 / The toolbox
 
-My learning roadmap across products, automation, and AI.
+Technologies used across the repositories below.
 
-| Area | Technologies I'm exploring |
+| Area | Stack |
 | :--- | :--- |
-| **Web** | ![TypeScript](https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=67E8F9) ![React](https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=67E8F9) ![Next.js](https://img.shields.io/badge/Next.js-161B22?style=flat-square&logo=nextdotjs&logoColor=E6EDF3) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-161B22?style=flat-square&logo=tailwindcss&logoColor=67E8F9) |
-| **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-161B22?style=flat-square&logo=flutter&logoColor=C4B5FD) ![Dart](https://img.shields.io/badge/Dart-161B22?style=flat-square&logo=dart&logoColor=C4B5FD) ![React Native](https://img.shields.io/badge/React_Native-161B22?style=flat-square&logo=react&logoColor=C4B5FD) ![Kotlin](https://img.shields.io/badge/Kotlin-161B22?style=flat-square&logo=kotlin&logoColor=C4B5FD) |
-| **Automation** | ![Playwright](https://img.shields.io/badge/Playwright-161B22?style=flat-square) ![Appium](https://img.shields.io/badge/Appium-161B22?style=flat-square&logo=appium&logoColor=6EE7B7) ![n8n](https://img.shields.io/badge/n8n-161B22?style=flat-square&logo=n8n&logoColor=6EE7B7) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-161B22?style=flat-square&logo=githubactions&logoColor=6EE7B7) |
-| **AI & backend** | ![Python](https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=FDE68A) ![FastAPI](https://img.shields.io/badge/FastAPI-161B22?style=flat-square&logo=fastapi&logoColor=FDE68A) ![LangChain](https://img.shields.io/badge/LangChain-161B22?style=flat-square&logo=langchain&logoColor=FDE68A) ![Docker](https://img.shields.io/badge/Docker-161B22?style=flat-square&logo=docker&logoColor=FDE68A) |
+| **Web interfaces** | ![TypeScript](https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=67E8F9) ![React](https://img.shields.io/badge/React-161B22?style=flat-square&logo=react&logoColor=67E8F9) ![Next.js](https://img.shields.io/badge/Next.js-161B22?style=flat-square&logo=nextdotjs&logoColor=E6EDF3) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-161B22?style=flat-square&logo=tailwindcss&logoColor=67E8F9) ![Bootstrap](https://img.shields.io/badge/Bootstrap-161B22?style=flat-square&logo=bootstrap&logoColor=67E8F9) |
+| **Backend & data** | ![PHP](https://img.shields.io/badge/PHP-161B22?style=flat-square&logo=php&logoColor=C4B5FD) ![Laravel](https://img.shields.io/badge/Laravel-161B22?style=flat-square&logo=laravel&logoColor=C4B5FD) ![MySQL](https://img.shields.io/badge/MySQL-161B22?style=flat-square&logo=mysql&logoColor=C4B5FD) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161B22?style=flat-square&logo=postgresql&logoColor=C4B5FD) ![Supabase](https://img.shields.io/badge/Supabase-161B22?style=flat-square&logo=supabase&logoColor=C4B5FD) |
+| **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-161B22?style=flat-square&logo=flutter&logoColor=6EE7B7) ![Dart](https://img.shields.io/badge/Dart-161B22?style=flat-square&logo=dart&logoColor=6EE7B7) |
+| **Development tools** | ![Git](https://img.shields.io/badge/Git-161B22?style=flat-square&logo=git&logoColor=FDE68A) ![Docker](https://img.shields.io/badge/Docker-161B22?style=flat-square&logo=docker&logoColor=FDE68A) ![Vite](https://img.shields.io/badge/Vite-161B22?style=flat-square&logo=vite&logoColor=FDE68A) |
 
 <br />
 
 <a id="project-lab"></a>
+<a id="projects"></a>
 
-## 03 / Project lab
+## 03 / Selected projects
 
-A small collection of ideas I'd like to bring to life.<br />
-**Concept stage** · These are project plans; implementations and demos are not available yet.
+Projects and coursework from my public GitHub repositories. Click a card to explore the source code.
 
 <table>
   <tr>
-    <td width="50%"><a href="#orbitops"><img src="assets/orbitops.svg" alt="OrbitOps — planned AI workflow control center" width="100%" /></a></td>
-    <td width="50%"><a href="#tracepilot"><img src="assets/tracepilot.svg" alt="TracePilot — planned web and mobile quality platform" width="100%" /></a></td>
+    <td width="50%"><a href="https://github.com/aryapulosari-design/UTS-Mobile-Praktikum"><img src="assets/langitkita.svg" alt="LangitKita - Weather for cities across Indonesia, 7-day forecasts and saved favorites." width="100%" /></a></td>
+    <td width="50%"><a href="https://github.com/aryapulosari-design/Sistem-Informasi-Tiket-Cyber-Sec"><img src="assets/uin-csirt.svg" alt="UIN-CSIRT Ticketing - Campus incident reports, ticket tracking and dashboards for three user roles." width="100%" /></a></td>
   </tr>
   <tr>
-    <td width="50%"><a href="#knowledgedock"><img src="assets/knowledgedock.svg" alt="KnowledgeDock — planned cited knowledge workspace" width="100%" /></a></td>
-    <td width="50%"><a href="#fieldsync"><img src="assets/fieldsync.svg" alt="FieldSync — planned offline field operations platform" width="100%" /></a></td>
+    <td width="50%"><a href="https://github.com/aryapulosari-design/uas-sistem-informasi"><img src="assets/futsalinaja.svg" alt="FutsalinAja - Futsal court reservations, equipment rentals, payments and owner reports." width="100%" /></a></td>
+    <td width="50%"><a href="https://github.com/aryapulosari-design/MBG-Inventaris"><img src="assets/mbg-insights.svg" alt="MBG Insights Hub - Inventory and stock movements for MBG, with reorder alerts and audit reports." width="100%" /></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/aryapulosari-design/CTF-ETH"><img src="assets/ctf-eth.svg" alt="CTF-ETH - A classroom Capture The Flag platform with challenges, hints and a leaderboard." width="100%" /></a></td>
+    <td width="50%"><a href="https://github.com/aryapulosari-design/uas-web-teori"><img src="assets/blog-cms.svg" alt="Blog CMS - Manage authors, categories and articles, with a public blog and related posts." width="100%" /></a></td>
   </tr>
 </table>
 
 <details>
-<summary><b>Open the notebook — ideas, stacks & engineering focus</b></summary>
+<summary><b>More projects &amp; coursework</b></summary>
 
-<a id="orbitops"></a>
-
-### OrbitOps
-
-A web command center for AI workflows, browser workers, and mobile approvals.
-
-**Planned stack:** Next.js · Flutter · FastAPI · Playwright · LLM APIs<br />
-**Focus:** inspectable plans, retries, cancellation, and audit logs.
-
-<a id="tracepilot"></a>
-
-### TracePilot
-
-A shared view of browser and Android tests, with AI summaries grounded in test artifacts.
-
-**Planned stack:** Next.js · React Native · Playwright · Appium · GitHub Actions<br />
-**Focus:** reproducible tests, traces, and useful failure reports.
-
-<a id="knowledgedock"></a>
-
-### KnowledgeDock
-
-A workspace to capture documents, organize sources, and ask questions with citations.
-
-**Planned stack:** Next.js · Flutter · FastAPI · PostgreSQL / pgvector · LLM APIs<br />
-**Focus:** retrieval quality, source references, access control, and evaluation.
-
-<a id="fieldsync"></a>
-
-### FieldSync
-
-An offline inspection app connected to a web dashboard, with AI-assisted report drafts.
-
-**Planned stack:** Flutter · Next.js · FastAPI · Local persistence · LLM APIs<br />
-**Focus:** reliable sync, conflict handling, and human review.
+| Repository | What you'll find |
+| :--- | :--- |
+| **[Si-PAKAR](https://github.com/aryapulosari-design/sipakar)** | A group project for managing class schedules, assignments and study progress, built with PHP, MySQL and Bootstrap. |
+| **[Mobile Praktikum 2026](https://github.com/aryapulosari-design/Mobile-Praktikum-2026)** | Mobile programming coursework organized by module. |
+| **[Tugas 4 Mobile Programming](https://github.com/aryapulosari-design/Tugas-4-MobilePrograming-Teori)** | A Dart-based mobile programming assignment. |
+| **[Tugas 1 Mobile](https://github.com/aryapulosari-design/tugas1-mobil)** | An early mobile programming assignment using Dart. |
 
 </details>
+
+**[Explore all my public repositories &#8599;](https://github.com/aryapulosari-design?tab=repositories)**
 
 <br />
 

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="300" viewBox="0 0 600 300" role="img" aria-labelledby="title desc">
+<title id="title">Blog CMS - source code on GitHub</title>
+<desc id="desc">Manage authors, categories and articles, with a public blog and related posts. Stack: Laravel / Blade / MySQL / Bootstrap. Repository: uas-web-teori.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#121C2B"/><stop offset="1" stop-color="#0D1117"/></linearGradient></defs>
+<rect x="1" y="1" width="598" height="298" rx="20" fill="url(#bg)" stroke="#2A364B"/>
+<path d="M28 1H126" stroke="#93C5FD" stroke-width="2"/>
+<text x="28" y="43" font-family="Consolas,monospace" font-size="11" letter-spacing="1.3" fill="#93C5FD">06 / WEB / CONTENT MANAGEMENT</text>
+<rect x="454" y="25" width="118" height="26" rx="13" fill="#192233" stroke="#344159"/>
+<circle cx="468" cy="38" r="3" fill="#93C5FD"/>
+<text x="517" y="42" text-anchor="middle" font-family="Consolas,monospace" font-size="9" letter-spacing="1" fill="#CBD5E1">SOURCE CODE</text>
+<text x="27" y="109" font-family="Segoe UI,Arial,sans-serif" font-weight="700" font-size="34" fill="#F0F6FC">Blog CMS</text>
+<g transform="translate(516 77) scale(.8)" fill="none" stroke="#93C5FD" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" opacity=".8"><rect x="6" y="5" width="44" height="48" rx="5"/><path d="M16 16h24M16 25h24M16 34h24M16 43h14"/></g>
+<text x="28" y="164" font-family="Segoe UI,Arial,sans-serif" font-size="17" fill="#A8B7CA">Manage authors, categories and articles,</text>
+<text x="28" y="189" font-family="Segoe UI,Arial,sans-serif" font-size="17" fill="#A8B7CA">with a public blog and related posts.</text>
+<path d="M28 220H572" stroke="#283448"/>
+<text x="28" y="247" font-family="Consolas,monospace" font-size="12" fill="#D2DBE8">Laravel / Blade / MySQL / Bootstrap</text>
+<text x="28" y="276" font-family="Consolas,monospace" font-size="10" fill="#8B9BB2">uas-web-teori</text>
+<path d="M552 266h16m-6-6 6 6-6 6" fill="none" stroke="#93C5FD" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
