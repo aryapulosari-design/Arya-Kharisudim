@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="128" viewBox="0 0 1280 128" role="img" aria-labelledby="title desc">
+  <title id="title">Build something useful. Make it reliable. Keep learning.</title>
+  <desc id="desc">Closing signature of Arya Kharisudin Irfani in a dark panel with cyan and lavender accents.</desc>
+  <defs><linearGradient id="line"><stop stop-color="#67E8F9"/><stop offset="1" stop-color="#C4B5FD"/></linearGradient></defs>
+  <rect x="1" y="1" width="1278" height="126" rx="18" fill="#0D1117" stroke="#283448"/>
+  <path d="M40 1H1240" stroke="url(#line)" stroke-width="2"/>
+  <text x="40" y="57" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="600" fill="#E6EDF3">Build something useful. Make it reliable. Keep learning.</text>
+  <text x="41" y="91" font-family="Consolas,monospace" font-size="13" letter-spacing="1.5" fill="#8B9BB2">ARYA KHARISUDIN IRFANI</text>
+  <circle cx="1178" cy="64" r="18" fill="none" stroke="#67E8F9"/>
+  <circle cx="1200" cy="64" r="18" fill="none" stroke="#C4B5FD"/>
+</svg>
