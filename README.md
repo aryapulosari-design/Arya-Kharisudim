@@ -63,7 +63,13 @@ Projects and coursework from my public GitHub repositories. Click a card to expl
 
 <table>
   <tr>
-    <td width="50%"><a href="https://github.com/aryapulosari-design/UTS-Mobile-Praktikum"><img src="assets/langitkita.svg" alt="LangitKita - Weather for cities across Indonesia, 7-day forecasts and saved favorites." width="100%" /></a></td>
+    <td width="50%" align="center">
+      <a href="https://github.com/aryapulosari-design/UTS-Mobile-Praktikum"><img src="assets/previews/langitkita-weather.png" alt="Actual LangitKita app screenshot showing Jakarta weather and the hourly forecast" height="300" /></a>
+      <br /><br /><b>LangitKita</b><br />
+      <sub>Weather, forecasts &amp; favorite cities across Indonesia.</sub><br />
+      <sub>Flutter &middot; Dart &middot; Open-Meteo</sub><br /><br />
+      <a href="https://github.com/aryapulosari-design/UTS-Mobile-Praktikum">View source &#8599;</a>
+    </td>
     <td width="50%"><a href="https://github.com/aryapulosari-design/Sistem-Informasi-Tiket-Cyber-Sec"><img src="assets/uin-csirt.svg" alt="UIN-CSIRT Ticketing - Campus incident reports, ticket tracking and dashboards for three user roles." width="100%" /></a></td>
   </tr>
   <tr>
